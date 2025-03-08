@@ -1,5 +1,3 @@
-Here is an improved version of your README.md:
-
 # Express Authentication with Cloudinary & MongoDB
 
 ## 📌 Project Overview
