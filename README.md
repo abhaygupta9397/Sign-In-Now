@@ -24,15 +24,14 @@ This is a **user authentication system** built with **Express.js, MongoDB, EJS, 
 - **Other:** dotenv, multer (for handling file uploads)
 
 ---
+##Register
+![image](https://github.com/user-attachments/assets/0a228220-86a9-41ee-b57c-bbd148dc4360)
 
-## ⚙️ Installation
-### 1️⃣ Clone the Repository
-```sh
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-```
+##Login 
+![image](https://github.com/user-attachments/assets/ccb56d17-8593-4a85-a3cc-6d7487889514)
 
-
+##profile page
+![image](https://github.com/user-attachments/assets/9c6b527a-a4d9-4918-95f7-a2953a9a81c9)
 
 ## 🙌 Contributing
 1. Fork the repository
@@ -41,5 +40,3 @@ cd your-repo
 4. Push to your branch and create a Pull Request
 
 ---
-
-
