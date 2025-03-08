@@ -25,8 +25,6 @@ This is a **user authentication system** built with **Express.js, MongoDB, EJS, 
 
 ---
 
----
-
 ## ⚙️ Installation
 ### 1️⃣ Clone the Repository
 ```sh
