@@ -10,9 +10,9 @@ const mongoURI = process.env.MONGO_URI
 
 //configuration for cloudinary
     cloudinary.config({ 
-        cloud_name: 'dzrcqdzx8',  
-        api_key: '175835117425458', 
-        api_secret: 'bNFKERe_03bX2Pf9Z-S5sM53zbs' // Click 'View API Keys' above to copy your API secret
+        cloud_name: '$$Enter your credentials of Cloudinary here$$',  
+        api_key:  '$$Enter your credentials of Cloudinary here$$', 
+        api_secret:  '$$Enter your credentials of Cloudinary here$$'// Click 'View API Keys' above to copy your API secret
     });
     
 
