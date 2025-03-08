@@ -45,5 +45,3 @@ This is a **user authentication system** built with **Express.js, MongoDB, EJS, 
 4. **Push** to your branch and create a **Pull Request**.
 
 ---
-
-I hope this improves the readability and structure of your README.md!
